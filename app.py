@@ -1,4 +1,3 @@
-pip install yfinance
 import tkinter as tk
 from tkinter import ttk
 import yfinance as yf
